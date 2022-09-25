@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kuesto&#39;s Korner on My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://kues.to/</link>
     <description>Recent content in Kuesto&#39;s Korner on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2022 23:28:31 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 23:28:31 -0500</lastBuildDate><atom:link href="https://kues.to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Blog</title>
-      <link>http://example.org/blog/</link>
+      <link>https://kues.to/blog/</link>
       <pubDate>Tue, 13 Sep 2022 20:05:56 -0500</pubDate>
-      <guid>http://example.org/blog/</guid>
+      <guid>https://kues.to/blog/</guid>
       <description>A Blog Post A Section Lorem ipsum dolor sit amet, consectetur adipiscing elit. In semper urna est, et hendrerit lorem gravida id. Nullam blandit velit tellus, id pharetra magna maximus et. Sed vitae eros dolor. Ut lacinia varius faucibus. Aenean vitae efficitur tortor, a lacinia quam. Quisque aliquet nunc id velit porttitor, et elementum magna commodo. Etiam eu vulputate leo, sit amet semper tellus. Nullam tincidunt, justo nec faucibus gravida, arcu dui euismod elit, vitae hendrerit tellus nisl non urna.</description>
     </item>
     <item>
       <title>2. Devlog</title>
-      <link>http://example.org/devlog/</link>
+      <link>https://kues.to/devlog/</link>
       <pubDate>Tue, 13 Sep 2022 20:05:56 -0500</pubDate>
-      <guid>http://example.org/devlog/</guid>
+      <guid>https://kues.to/devlog/</guid>
       <description>Devlog 9_28_22 9-28-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
     </item>
     <item>
       <title>3. About</title>
-      <link>http://example.org/about/</link>
+      <link>https://kues.to/about/</link>
       <pubDate>Tue, 13 Sep 2022 20:05:56 -0500</pubDate>
-      <guid>http://example.org/about/</guid>
+      <guid>https://kues.to/about/</guid>
       <description>About this is a quote
 Here is a copyable link.
 This can be... &amp;hellip;expanded. $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ Info information disclaimer: This is important.

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2. Devlog on My New Hugo Site</title>
-    <link>http://example.org/devlog/</link>
+    <link>https://kues.to/devlog/</link>
     <description>Recent content in 2. Devlog on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2022 20:05:56 -0500</lastBuildDate><atom:link href="http://example.org/devlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Sep 2022 20:05:56 -0500</lastBuildDate><atom:link href="https://kues.to/devlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>9_28_22</title>
-      <link>http://example.org/devlog/9_28_22/</link>
+      <link>https://kues.to/devlog/9_28_22/</link>
       <pubDate>Sun, 25 Sep 2022 05:49:46 -0500</pubDate>
-      <guid>http://example.org/devlog/9_28_22/</guid>
+      <guid>https://kues.to/devlog/9_28_22/</guid>
       <description>9-28-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
     </item>
     <item>
       <title>9_27_22</title>
-      <link>http://example.org/devlog/9_27_22/</link>
+      <link>https://kues.to/devlog/9_27_22/</link>
       <pubDate>Sun, 25 Sep 2022 05:49:42 -0500</pubDate>
-      <guid>http://example.org/devlog/9_27_22/</guid>
+      <guid>https://kues.to/devlog/9_27_22/</guid>
       <description>9-27-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
     </item>
     <item>
       <title>9_26_22</title>
-      <link>http://example.org/devlog/9_26_22/</link>
+      <link>https://kues.to/devlog/9_26_22/</link>
       <pubDate>Sun, 25 Sep 2022 05:49:39 -0500</pubDate>
-      <guid>http://example.org/devlog/9_26_22/</guid>
+      <guid>https://kues.to/devlog/9_26_22/</guid>
       <description>9-26-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
     </item>
     <item>
       <title>9_25_22</title>
-      <link>http://example.org/devlog/9_25_22/</link>
+      <link>https://kues.to/devlog/9_25_22/</link>
       <pubDate>Sun, 25 Sep 2022 05:49:01 -0500</pubDate>
-      <guid>http://example.org/devlog/9_25_22/</guid>
+      <guid>https://kues.to/devlog/9_25_22/</guid>
       <description>9-25-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
     </item>
   </channel>
