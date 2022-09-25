@@ -1,0 +1,61 @@
+/* my-custom-variant */
+@font-face {
+    font-family: 'Agave';
+    src: url('/fonts/Agave-Regular.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'GoMono';
+    src: url('/fonts/Go-Mono.ttf') format("truetype");
+}
+@font-face {
+    font-family: 'GoRegular';
+    src: url('/fonts/Go-Regular.ttf') format("truetype");
+}
+:root {
+  --PRIMARY-color: #1f0e1c; /* brand primary color */
+  --SECONDARY-color: #34859d; /* brand secondary color */
+  --MAIN-TEXT-color: #8c8fae; /* text color of content and h1 titles */
+  --MAIN-LINK-HOVER-color: #7ec4c1; /* hoverd link color of content */
+  --MAIN-BG-color: #1f0e1c; /* background color of content */
+  --MAIN-TITLES-TEXT-color: #7ec4c1; /* text color of h2-h6 titles and transparent box titles */
+  --MAIN-TITLES-H1-color: #f5edba; /* text color of h1 titles */
+  --MAIN-TITLES-H2-color: #7ec4c1; /* text color of h2-h6 titles */
+  --MAIN-TITLES-H3-color: #8c8fae; /* text color of h3-h6 titles */
+  --MAIN-font: 'GoRegular'; /* text font of content and h1 titles */
+  --MAIN-TITLES-H1-font: 'Agave'; /* text font of content and h1 titles */
+  --MAIN-TITLES-TEXT-font: 'Agave'; /* text font of h2-h6 titles and transparent box titles */
+  --CODE-BLOCK-color: #8c8fae; /* fallback text color of block code; should be adjusted to your selected chroma style */
+  --CODE-BLOCK-BG-color: #1f0e1c; /* fallback background color of block code; should be adjusted to your selected chroma style */
+  --CODE-BLOCK-BORDER-color: #3e2137; /* border color of block code */
+  --CODE-INLINE-color: #d26471; /* text color of inline code */
+  --CODE-INLINE-BG-color: #1f0e1c; /* background color of inline code */
+  --CODE-INLINE-BORDER-color: #3e2137; /* border color of inline code */
+  --CODE-font: 'GoMono'; /* text font of code */
+  --MERMAID-theme: dark; /* name of the default Mermaid theme for this variant, can be overridden in config.toml */
+  --SWAGGER-theme: dark; /* name of the default Swagger theme for this variant, can be overridden in config.toml */
+  --MENU-HOME-LINK-color: #3e2137; /* home button color if configured */
+  --MENU-HOME-LINK-HOVER-color: #584563; /* hoverd home button color if configured */
+  --MENU-SEARCH-color: #8c8fae; /* text and icon color of search box */
+  --MENU-SEARCH-BG-color: #3e2137; /* background color of search box */
+  --MENU-SEARCH-BORDER-color: #f5edba; /* border color of search box */
+  --MENU-SECTIONS-BG-color: #1f0e1c; /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+  --MENU-SECTIONS-ACTIVE-BG-color: #3e2137; /* background color of the active menu section */
+  --MENU-SECTIONS-LINK-color: #8c8fae; /* link color of menu topics */
+  --MENU-SECTIONS-LINK-HOVER-color: #f5edba; /* hoverd link color of menu topics */
+  --MENU-SECTION-ACTIVE-CATEGORY-color: #f5edba; /* text color of the displayed menu topic */
+  --MENU-SECTION-HR-color: #584563; /* separator color of menu footer */
+  --MENU-VISITED-color: #34859d; /* icon color of visited menu topics if configured */
+  --BOX-CAPTION-color: #1f0e1c; /* text color of colored box titles */
+  --BOX-BG-color: #1f0e1c; /* background color of colored boxes */
+  --BOX-TEXT-color: #8c8fae; /* text color of colored box content */
+  --BOX-BLUE-color: #34859d; /* background color of blue boxes */
+  --BOX-BLUE-TEXT-color: #34859d; /* text color of blue boxes */
+  --BOX-GREEN-color: #c0c741; /* background color of green boxes */
+  --BOX-GREEN-TEXT-color: #c0c741; /* text color of green boxes */
+  --BOX-GREY-color: #8c8fae; /* background color of grey boxes */
+  --BOX-GREY-TEXT-color: #8c8fae; /* text color of grey boxes */
+  --BOX-ORANGE-color: #e4943a; /* background color of orange boxes */
+  --BOX-ORANGE-TEXT-color: #e4943a; /* text color of orange boxes */
+  --BOX-RED-color: #9d303b; /* background color of red boxes */
+  --BOX-RED-TEXT-color: #9d303b; /* text color of red boxes */
+}
