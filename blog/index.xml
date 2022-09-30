@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1. Blog on My New Hugo Site</title>
+    <title>1. Blog on Kuesto&#39;s Korner</title>
     <link>https://kues.to/blog/</link>
-    <description>Recent content in 1. Blog on My New Hugo Site</description>
+    <description>Recent content in 1. Blog on Kuesto&#39;s Korner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Sep 2022 20:05:56 -0500</lastBuildDate><atom:link href="https://kues.to/blog/index.xml" rel="self" type="application/rss+xml" />

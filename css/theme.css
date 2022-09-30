@@ -23,12 +23,12 @@ body {
 body:not(.print) #body-inner.narrow h1 {
     font-size: 3.5rem;
 }
-@media only screen and (min-width: 48em) and (max-width: 59.938em) {
+@media only screen and (min-width: 65em) and (max-width: 85em) {
     body:not(.print) #body-inner.narrow h1 {
         font-size: 2.8rem;
     }
 }
-@media only screen and (max-width: 47.938em) {
+@media only screen and (max-width: 65em) {
     body:not(.print) #body-inner.narrow h1 {
         font-size: 2.5rem;
     }
@@ -60,10 +60,10 @@ th {
     left: 0;
     line-height: 1.574;
     min-height: 100%;
-    min-width: 300px;
-    max-width: 300px;
+    min-width: 500px;
+    max-width: 500px;
     position: fixed;
-    width: 300px;
+    width: 500px;
     z-index: 80;
 }
 
@@ -281,13 +281,13 @@ th {
     flex-grow: 1;
     flex-shrink: 0;
     height: 100%;
-    margin-left: 300px;
+    margin-left: 500px;
     min-height: 100%;
-    min-width: calc( 100% - 300px);
-    max-width: calc( 100% - 300px);
+    min-width: calc( 100% - 500px);
+    max-width: calc( 100% - 500px);
     overflow-wrap: break-word; /* avoid x-scrolling of body if it is to large to fit */
     position: relative; /* PS */
-    width: calc( 100% - 300px);
+    width: calc( 100% - 500px);
     z-index: 70;
 }
 
@@ -304,10 +304,10 @@ th {
     padding: 2px;
 }
 
-#body img.shadow,
+/* #body img.shadow,
 #body .video-container.shadow {
     box-shadow: 0 10px 30px rgba( 200, 200, 200, .666 );
-}
+} */
 
 #body img.inline {
     display: inline !important;
@@ -323,12 +323,12 @@ th {
     padding: 0 3.25rem 4rem 3.25rem;
     position: relative; /* PS */
 }
-@media screen and (max-width: 59.938em) {
+@media screen and (max-width: 85em) {
     #body-inner {
         padding: 0 2rem 15px 2rem;
     }
 }
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     #body-inner {
         padding: 0 1.25rem 5px 1.25rem;
     }
@@ -345,32 +345,32 @@ th {
 }
 
 /* we limit width if we have large screens */
-@media screen and ( min-width: 1300px ){ /* #sidebar/width + ./max-width */
+@media screen and ( min-width: 1500px ){ /* #sidebar/width + ./max-width */
     #body .flex-block-wrapper {
         margin-left: auto;
         margin-right: auto;
-        min-width: calc( 1300px - 300px - 2 * 3.25rem );
-        width: calc( 1300px - 300px - 2 * 3.25rem );
-        max-width: calc( 1300px - 300px - 2 * 3.25rem );
+        min-width: calc( 1500px - 500px - 2 * 3.25rem );
+        width: calc( 1500px - 500px - 2 * 3.25rem );
+        max-width: calc( 1500px - 500px - 2 * 3.25rem );
     }
     body:not(.print) #body .narrow .flex-block-wrapper {
-        min-width: calc( 1300px - 300px - 2 * 9.75rem );
-        width: calc( 1300px - 300px - 2 * 9.75rem );
-        max-width: calc( 1300px - 300px - 2 * 9.75rem );
+        min-width: calc( 1500px - 500px - 2 * 6rem );
+        width: calc( 1500px - 500px - 2 * 6rem );
+        max-width: calc( 1500px - 500px - 2 * 6rem );
     }
 }
 
 body:not(.print) #body-inner.narrow {
-    padding: 2rem 9.75rem;
+    padding: 1rem 6rem;
 }
-@media screen and (max-width: 59.938em) {
+@media screen and (max-width: 85em) {
     body:not(.print) #body-inner.narrow {
-        padding: 15px 6.5rem;
+        padding: 15px 4rem;
     }
 }
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     body:not(.print) #body-inner.narrow {
-        padding: 5px 3.25rem;
+        padding: 5px 2rem;
     }
 }
 
@@ -551,7 +551,7 @@ pre code {
     font-size: 15px;
     margin: 0;
     padding: 0;
-    white-space: inherit;
+    white-space: pre;
 }
 
 hr {
@@ -808,7 +808,7 @@ span.nav i{
     white-space: nowrap;
     width: calc(100% - 5*3.25rem);
 }
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     #body #breadcrumbs {
         text-overflow: unset;
     }
@@ -821,7 +821,7 @@ span.nav i{
     left: 1rem;
     top: 1rem;
 }
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     .mobile-support #sidebar-toggle-span {
         display: inline;
     }
@@ -834,7 +834,7 @@ span.nav i{
     display: inline;
     padding: 0 .75rem;
 }
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     #body #breadcrumbs .links {
         /* we just hide the breadcrumbs instead of display: none;
         this makes sure that the breadcrumbs are still usable for
@@ -861,23 +861,23 @@ span.nav i{
     text-decoration: none;
 }
 
-@media screen and (max-width: 59.938em) {
+@media screen and (max-width: 85em) {
     #sidebar {
-        min-width: 230px;
-        max-width: 230px;
-        width: 230px;
+        min-width: 300px;
+        max-width: 300px;
+        width: 300px;
     }
     #body {
-        margin-left: 230px;
-        min-width: calc( 100% - 230px);
-        max-width: calc( 100% - 230px);
-        width: calc( 100% - 230px);
+        margin-left: 300px;
+        min-width: calc( 100% - 300px);
+        max-width: calc( 100% - 300px);
+        width: calc( 100% - 300px);
     }
 }
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     /* we don't support sidebar flyout in mobile */
     .mobile-support #sidebar {
-        left: -230px;
+        left: -300px;
     }
     .mobile-support #navshow{
         display: inline;
@@ -896,7 +896,7 @@ span.nav i{
         z-index: 90;
     }
     .mobile-support.sidebar-flyout #body {
-        margin-left: 230px;
+        margin-left: 300px;
         overflow: hidden;
     }
     .mobile-support.sidebar-flyout #sidebar-overlay{
@@ -1108,7 +1108,7 @@ option {
 
 .progress {
     border: 0px solid rgba( 134, 134, 134, .166 );
-    box-shadow: 1px 2px 5px 1px rgba( 134, 134, 134, .2 );
+    /* box-shadow: 1px 2px 5px 1px rgba( 134, 134, 134, .2 ); */
     height: 0;
     opacity: 0;
     overflow: hidden;
@@ -1343,7 +1343,7 @@ rapi-doc {
 	cursor: pointer;
 }
 
-@media screen and (max-width: 47.938em) {
+@media screen and (max-width: 65em) {
     #breadcrumbs .links {
         display: none;
     }
