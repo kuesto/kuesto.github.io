@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kues.to/blog/</loc>
+    <lastmod>2022-09-13T20:05:56-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kues.to/devlog/</loc>
+    <lastmod>2022-09-13T20:05:56-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://kues.to/about/</loc>
+    <lastmod>2022-09-13T20:05:56-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://kues.to/devlog/9_28_22/</loc>
     <lastmod>2022-09-25T05:49:46-05:00</lastmod>
   </url>
@@ -19,18 +31,6 @@
   <url>
     <loc>https://kues.to/</loc>
     <lastmod>2022-09-13T23:28:31-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kues.to/blog/</loc>
-    <lastmod>2022-09-13T20:05:56-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kues.to/devlog/</loc>
-    <lastmod>2022-09-13T20:05:56-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://kues.to/about/</loc>
-    <lastmod>2022-09-13T20:05:56-05:00</lastmod>
   </url>
   <url>
     <loc>https://kues.to/categories/</loc>
