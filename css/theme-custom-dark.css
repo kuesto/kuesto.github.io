@@ -1,26 +1,21 @@
 /* my-custom-variant */
 @font-face {
     font-family: 'Agave';
-    src: url('/fonts/Agave-Regular.woff2') format("woff2");
+    src: url('/fonts/Agave-Regular.ttf') format("woff2");
     font-weight: normal;
     font-style: normal;
     text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'Agave';
-    src: url('/fonts/Agave-Bold.woff2') format("woff2");
+    src: url('/fonts/Agave-Bold.ttf') format("woff2");
     font-weight: bold;
     font-style: bold;
     text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'GoMono';
-    src: url('/fonts/Go-Mono.woff2') format("woff2");
-    text-rendering: optimizeLegibility;
-}
-@font-face {
-    font-family: 'GoRegular';
-    src: url('/fonts/Go-Regular.woff2') format("woff2");
+    src: url('/fonts/Go-Mono.ttf') format("woff2");
     text-rendering: optimizeLegibility;
 }
 :root {
