@@ -12,25 +12,22 @@
       <link>https://kues.to/blog/</link>
       <pubDate>Tue, 13 Sep 2022 20:05:56 -0500</pubDate>
       <guid>https://kues.to/blog/</guid>
-      <description>A Blog Post A Section Lorem ipsum dolor sit amet, consectetur adipiscing elit. In semper urna est, et hendrerit lorem gravida id. Nullam blandit velit tellus, id pharetra magna maximus et. Sed vitae eros dolor. Ut lacinia varius faucibus. Aenean vitae efficitur tortor, a lacinia quam. Quisque aliquet nunc id velit porttitor, et elementum magna commodo. Etiam eu vulputate leo, sit amet semper tellus. Nullam tincidunt, justo nec faucibus gravida, arcu dui euismod elit, vitae hendrerit tellus nisl non urna.</description>
+      <description>Blog Nothing here yet :(</description>
     </item>
     <item>
       <title>Devlog</title>
       <link>https://kues.to/devlog/</link>
       <pubDate>Tue, 13 Sep 2022 20:05:56 -0500</pubDate>
       <guid>https://kues.to/devlog/</guid>
-      <description>Devlog 9-28-22 9-28-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
+      <description>Devlog Adding an inventory (WIP initial blog post - publishing it now to help fix formatting.)</description>
     </item>
     <item>
       <title>About</title>
       <link>https://kues.to/about/</link>
       <pubDate>Tue, 13 Sep 2022 20:05:56 -0500</pubDate>
       <guid>https://kues.to/about/</guid>
-      <description>About this is a quote
-Here is a copyable link.
-This can be... &amp;hellip;expanded. $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$ Info information disclaimer: This is important.
-Warning warning disclaimer: This is dangerous.
-using System; using System.Drawing; using System.Drawing.Imaging; static class Program { static void Main() { new Bitmap(200, 200) .DrawLine(0, 0, 199, 199, Color.Black).DrawLine(199,0,0,199,Color.Black) .DrawLine(50, 75, 150, 125, Color.Blue).DrawLine(150, 75, 50, 125, Color.</description>
+      <description>About Who am I?
+What is this site?</description>
     </item>
   </channel>
 </rss>

@@ -7,5 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Sep 2022 20:05:56 -0500</lastBuildDate><atom:link href="https://kues.to/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who am I?</title>
+      <link>https://kues.to/about/me/</link>
+      <pubDate>Sun, 02 Oct 2022 16:36:23 -0500</pubDate>
+      <guid>https://kues.to/about/me/</guid>
+      <description>Some highlights:
+I go by Kuesto Evergrind online, or kuesto for short. I do not go by Kuesto Evergrind IRL, nor kuesto for short. I stole this name from my High Elf Enchanter in EverQuest. I work professionally as a web dev. I try to avoid it as much as I can outside of work. I am a hobbyist gamedev. Right now I&amp;rsquo;m working on a CRPG/Roguelike hybrid I call RGFQ I am a hobbyist gamer.</description>
+    </item>
+    <item>
+      <title>What is this site?</title>
+      <link>https://kues.to/about/this_site/</link>
+      <pubDate>Sun, 02 Oct 2022 16:36:27 -0500</pubDate>
+      <guid>https://kues.to/about/this_site/</guid>
+      <description> It&amp;rsquo;s anything I want it to be. But how was it made? Here&amp;rsquo;s some highlights:
+Built with Hugo. The theme is based on Hugo Relearn Theme. The colorscheme is NA16 Palette. The title/header font is Go Mono. Everything else is Agave. Hosted on Github Pages. </description>
+    </item>
   </channel>
 </rss>

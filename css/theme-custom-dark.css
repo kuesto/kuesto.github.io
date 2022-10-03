@@ -1,15 +1,27 @@
 /* my-custom-variant */
 @font-face {
     font-family: 'Agave';
-    src: url('/fonts/Agave-Regular.ttf') format("truetype");
+    src: url('/fonts/Agave-Regular.woff2') format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+}
+@font-face {
+    font-family: 'Agave';
+    src: url('/fonts/Agave-Bold.woff2') format("woff2");
+    font-weight: bold;
+    font-style: bold;
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'GoMono';
-    src: url('/fonts/Go-Mono.ttf') format("truetype");
+    src: url('/fonts/Go-Mono.woff2') format("woff2");
+    text-rendering: optimizeLegibility;
 }
 @font-face {
     font-family: 'GoRegular';
-    src: url('/fonts/Go-Regular.ttf') format("truetype");
+    src: url('/fonts/Go-Regular.woff2') format("woff2");
+    text-rendering: optimizeLegibility;
 }
 :root {
   --PRIMARY-color: #1f0e1c; /* brand primary color */
@@ -21,9 +33,9 @@
   --MAIN-TITLES-H1-color: #f5edba; /* text color of h1 titles */
   --MAIN-TITLES-H2-color: #7ec4c1; /* text color of h2-h6 titles */
   --MAIN-TITLES-H3-color: #8c8fae; /* text color of h3-h6 titles */
-  --MAIN-font: 'GoRegular'; /* text font of content and h1 titles */
-  --MAIN-TITLES-H1-font: 'Agave'; /* text font of content and h1 titles */
-  --MAIN-TITLES-TEXT-font: 'Agave'; /* text font of h2-h6 titles and transparent box titles */
+  --MAIN-font: 'Agave'; /* text font of content and h1 titles */
+  --MAIN-TITLES-H1-font: 'GoMono'; /* text font of content and h1 titles */
+  --MAIN-TITLES-TEXT-font: 'GoMono'; /* text font of h2-h6 titles and transparent box titles */
   --CODE-BLOCK-color: #8c8fae; /* fallback text color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BG-color: #1f0e1c; /* fallback background color of block code; should be adjusted to your selected chroma style */
   --CODE-BLOCK-BORDER-color: #3e2137; /* border color of block code */

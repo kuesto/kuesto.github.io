@@ -8,32 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Sep 2022 20:05:56 -0500</lastBuildDate><atom:link href="https://kues.to/devlog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>9-28-22</title>
-      <link>https://kues.to/devlog/9_28_22/</link>
-      <pubDate>Sun, 25 Sep 2022 05:49:46 -0500</pubDate>
-      <guid>https://kues.to/devlog/9_28_22/</guid>
-      <description>9-28-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
-    </item>
-    <item>
-      <title>9-27-22</title>
-      <link>https://kues.to/devlog/9_27_22/</link>
-      <pubDate>Sun, 25 Sep 2022 05:49:42 -0500</pubDate>
-      <guid>https://kues.to/devlog/9_27_22/</guid>
-      <description>9-27-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
-    </item>
-    <item>
-      <title>9-26-22</title>
-      <link>https://kues.to/devlog/9_26_22/</link>
-      <pubDate>Sun, 25 Sep 2022 05:49:39 -0500</pubDate>
-      <guid>https://kues.to/devlog/9_26_22/</guid>
-      <description>9-26-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
-    </item>
-    <item>
-      <title>9-25-22</title>
-      <link>https://kues.to/devlog/9_25_22/</link>
-      <pubDate>Sun, 25 Sep 2022 05:49:01 -0500</pubDate>
-      <guid>https://kues.to/devlog/9_25_22/</guid>
-      <description>9-25-22 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ac commodo neque. Nam commodo aliquam lobortis. Duis sodales justo eu elit sagittis, sit amet fringilla ipsum euismod. Ut aliquet molestie euismod. Aenean elementum est eu auctor egestas. Vestibulum vestibulum quam sit amet gravida auctor. Aenean in ex in risus cursus aliquet in sit amet dui. Etiam auctor turpis eu elit lacinia scelerisque. Cras sollicitudin finibus bibendum. Aliquam posuere elementum enim, quis tristique justo varius ut.</description>
+      <title>Adding an inventory</title>
+      <link>https://kues.to/devlog/10_02_22_adding_an_inventory/</link>
+      <pubDate>Sun, 02 Oct 2022 19:38:34 -0500</pubDate>
+      <guid>https://kues.to/devlog/10_02_22_adding_an_inventory/</guid>
+      <description>(WIP initial blog post - publishing it now to help fix formatting.)</description>
     </item>
   </channel>
 </rss>

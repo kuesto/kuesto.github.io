@@ -14,7 +14,7 @@ body {
     font-size: 16.25px;
     font-weight: 300;
     height: 100%;
-    left-content: flex-end;
+    justify-content: flex-end;
     line-height: 1.574;
     /* overflow: hidden; PSC removed for #242 #243 #244; to avoid browser scrollbar to flicker before we create our own */
     width: 100%;
@@ -261,7 +261,7 @@ th {
     margin: 1rem 0 1rem 0;
     padding-left: 1rem;
     text-rendering: optimizeLegibility;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 #sidebar .footermargin {
@@ -393,7 +393,7 @@ body:not(.print) #body-inner.narrow p {
 h1 {
     font-weight: 200;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 h2, h3, .article-subheading, h4, h5, h6 {
@@ -586,7 +586,7 @@ thead td {
     background-color: rgba( 134, 134, 134, .166 );
     border: 1px solid rgba( 134, 134, 134, .333 );
     -webkit-print-color-adjust: exact;
-    color-adjust: exact;
+    print-color-adjust: exact;
     padding: 0.5rem;
 }
 
@@ -1153,7 +1153,7 @@ option {
     --VARIABLE-BOX-TEXT-color: var(--INTERNAL-BOX-NEUTRAL-TEXT-color);
     border-radius: 4px;
     -webkit-print-color-adjust: exact;
-    color-adjust: exact;
+    print-color-adjust: exact;
     cursor: pointer;
     display: inline-block;
     font-size: .9rem;
